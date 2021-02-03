@@ -1,0 +1,20 @@
+{
+  "Server": {
+    "port": 3000,
+    "secretKey": "Dr0pper"
+  },
+  "Path": {
+    "dataRoot": "data",
+    "imageRoot": "data/image",
+    "logRoot": "logging"
+  },
+  "Logging": [
+    { "type": "access", "format":  "dev" },
+    { "type": "access", "format":  "tiny", "filename": "access.curator.log"},
+    { "type": "console", "level": "info", "colorize": true, "format": "timestamp"},
+    { "type": "file", "level": "debug", "colorize": true, "format": "timestamp", "filename": "public.log" }
+  ],
+  "Board": {
+    "indexFilename": "index.json"
+  }
+}

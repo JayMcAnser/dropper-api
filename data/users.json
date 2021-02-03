@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Jaap",
+    "email": "info@toxus.nl",
+    "password": "123456",
+    "rights": [
+      "admin"
+    ],
+    "logging": [
+      {
+        "type": "console",
+        "level": "debug",
+        "colorize": true,
+        "format": "timestamp"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pier",
+    "email": "gjptaylor@gmail.com",
+    "password": "12345"
+  },
+  {
+    "name": "test",
+    "email": "private@example.com",
+    "password": "very-secret",
+    "id": "317ce907-3976-4af0-b749-0afe250ab0e6",
+    "logging": [
+      {
+        "type": "file",
+        "filename": "private[at]@example.com.log",
+        "level": "debug",
+        "colorize": true,
+        "format": "timestamp"
+      }
+    ]
+  },
+  {
+    "name": "test-user",
+    "email": "info@dropper.info",
+    "password": "12345",
+    "id": "05e7fa7f-2dd2-4823-8188-fbbcefefa804"
+  },
+  {
+    "name": "test-user",
+    "email": "test@example.com",
+    "password": "12345",
+    "id": "08798f8a-a3a9-41d9-88e8-81eb95c9ffd8"
+  }
+]

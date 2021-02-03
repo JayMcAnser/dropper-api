@@ -1,0 +1,54 @@
+{
+  "id":"fe5f5724-da95-4da6-bad7-a7c04450c7ae",
+  "name":"preskamer",
+  "title":"Perskamer Rietveld",
+  "description": "Een virtuele rondleiding langs het ontwerpproces en de realisatie van de UNESCO Perskamer door Gerrit Rietveld in 1957" ,
+  "ownerId":"317ce907-3976-4af0-b749-0afe250ab0e6",
+  "isPublic":true,
+  "users":[],
+  "history":[
+    {"userId":"317ce907-3976-4af0-b749-0afe250ab0e6","date":1610987337138,"type":"created"}
+  ],
+  "images": [
+    {"id": "5e9eafd3-0d47-46d8-838d-cf70300ded53", "name": "bubbles.png", "filename": "bubbles.png"},
+    {"id": "823c2d9d-7ce9-4525-aeb4-5aabd36812bb", "name": "mark.jpg", "filename": "mark.jpg"}
+  ],
+  "columns":[
+    { "id":1,
+      "elements": [{
+          "id": "e1",
+          "type": "text",
+          "title": "UNESCO Press room",
+          "description": "A guided tour through the creation of an impressive room"
+        },{
+          "id": "e2",
+          "type": "text",
+          "description": "a text without an title"
+        },
+        {
+          "id": "e3",
+          "type": "text",
+          "title": "This one has only a title"
+        },
+        {
+          "id": "e4",
+          "type": "image",
+          "title": "This is a picture added",
+          "image": "5e9eafd3-0d47-46d8-838d-cf70300ded53",
+          "height": "600"
+        }
+      ]
+    },
+      {"id":2, "elements": [{
+        "id": "e7",
+        "type": "canvas",
+        "images": [
+          {"imageURL": "5e9eafd3-0d47-46d8-838d-cf70300ded53"},
+          {"imageURL": "823c2d9d-7ce9-4525-aeb4-5aabd36812bb", "xPos": 50, "yPos": 20 }
+        ]
+      },
+        {"id": "f2"}, {"id": "f3"}, {"id": "f4"},{"id": "f5"}, {"id": "f6"}
+      ]},
+    {"id":3, "elements": [{"id": "g1"}]}
+  ]
+}

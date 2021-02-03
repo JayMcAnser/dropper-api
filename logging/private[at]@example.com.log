@@ -1,0 +1,643 @@
+2021-01-17T23:05:12.885Z info: 	user private@example.com logged in successfully
+2021-01-17T23:05:42.023Z info: 	user private@example.com logged in successfully
+2021-01-17T23:05:58.099Z info: 	user private@example.com logged in successfully
+2021-01-17T23:08:54.118Z info: 	user private@example.com logged in successfully
+2021-01-17T23:09:19.742Z info: 	user private@example.com logged in successfully
+2021-01-17T23:09:45.859Z info: 	user private@example.com logged in successfully
+2021-01-17T23:12:15.035Z info: 	user private@example.com logged in successfully
+2021-01-18T08:13:07.746Z info: 	user private@example.com logged in successfully
+2021-01-18T08:14:04.509Z info: 	user private@example.com logged in successfully
+2021-01-18T08:14:45.024Z info: 	user private@example.com logged in successfully
+2021-01-18T08:14:47.879Z debug: 	() => `open board ${req.params.name}`
+2021-01-18T08:18:34.497Z info: 	user private@example.com logged in successfully
+2021-01-18T08:18:47.157Z info: 	user private@example.com logged in successfully
+2021-01-18T08:19:54.563Z info: 	user private@example.com logged in successfully
+2021-01-18T08:20:12.498Z debug: 	open board test.ctrl
+2021-01-18T08:23:01.951Z info: 	user private@example.com logged in successfully
+2021-01-18T08:23:08.343Z debug: 	[controller.board].create name: test.ctrl
+2021-01-18T08:23:12.327Z debug: 	[controller.board] open board test.ctrl
+2021-01-18T08:23:12.336Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-18T08:25:52.790Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T08:25:52.825Z debug: 	[controller.board].create name: test.ctrl
+2021-01-18T08:25:52.836Z debug: 	[controller.board] open board test.ctrl
+2021-01-18T08:25:52.844Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-18T08:26:09.453Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T08:26:09.488Z debug: 	[controller.board].create name: test.ctrl
+2021-01-18T08:26:09.495Z debug: 	[controller.board] open board test.ctrl
+2021-01-18T08:26:09.499Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-18T08:26:49.092Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T08:26:49.124Z debug: 	[controller.board].create name: test.ctrl
+2021-01-18T08:26:49.132Z debug: 	[controller.board] open board test.ctrl
+2021-01-18T08:26:49.136Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-18T08:55:56.686Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T08:55:56.726Z debug: 	[controller.board].create name: test.ctrl
+2021-01-18T08:55:56.734Z debug: 	[controller.board] open board test.ctrl
+2021-01-18T08:55:56.738Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-18T09:00:57.702Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:00:57.746Z debug: 	[controller.board].create name: test.ctrl
+2021-01-18T09:00:57.754Z debug: 	[controller.board] open board test.ctrl
+2021-01-18T09:00:57.758Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-18T09:01:33.228Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:01:41.728Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:02:07.743Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:02:37.444Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:02:44.410Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:02:47.941Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:02:51.469Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:03:43.524Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:03:47.228Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:04:14.351Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:04:33.829Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T09:04:33.868Z debug: 	[controller.board].create name: test.ctrl
+2021-01-18T09:04:33.876Z debug: 	[controller.board] open board test.ctrl
+2021-01-18T09:04:33.880Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-18T16:28:57.052Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T16:28:57.092Z debug: 	[controller.board].create name: test.ctrl
+2021-01-18T16:28:57.100Z debug: 	[controller.board] open board test.ctrl
+2021-01-18T16:28:57.104Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-18T17:58:25.838Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-18T18:02:02.524Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-19T08:18:12.336Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-19T08:18:51.657Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-19T08:19:22.102Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-19T08:19:28.099Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-19T08:20:14.411Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-19T08:20:50.280Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-19T08:21:14.727Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-19T08:21:14.761Z debug: 	[controller.board].create name: test.ctrl
+2021-01-19T08:21:14.769Z debug: 	[controller.board] open board test.ctrl
+2021-01-19T08:21:14.773Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:09:39.907Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:11:11.384Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:11:11.485Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:11:11.489Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:11:11.492Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:12:27.397Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:12:34.866Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:12:36.506Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:12:58.022Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:12:58.098Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:12:58.101Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:12:58.104Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:13:30.571Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:13:30.649Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:13:30.652Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:13:30.655Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:18:08.416Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:18:08.495Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:18:08.498Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:18:08.500Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:21:20.850Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:21:57.359Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:22:03.340Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:22:06.269Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:22:19.446Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:23:23.182Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:23:30.076Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:23:42.772Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:24:01.969Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:24:17.030Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:30:39.681Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:30:39.775Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:30:39.786Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:30:39.792Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:31:25.887Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:31:27.228Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:39:26.504Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:39:26.593Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:39:26.604Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:39:26.610Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:39:34.136Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:39:34.258Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:39:34.271Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:39:34.277Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:39:46.238Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:39:46.335Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:39:46.355Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:39:46.360Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:39:58.750Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:39:58.848Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:39:58.867Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:39:58.873Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:40:04.763Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:40:04.860Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:40:04.879Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:40:04.885Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:41:56.505Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:41:56.562Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:41:56.573Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:41:56.579Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:42:14.539Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:42:14.575Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:42:14.585Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:42:14.591Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T10:42:31.473Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T10:42:31.511Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T10:42:31.522Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T10:42:31.528Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T15:01:58.768Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T15:01:58.810Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T15:01:58.821Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T15:01:58.826Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T15:02:23.276Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T15:02:23.312Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T15:02:23.322Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T15:02:23.328Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-21T15:02:29.436Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-21T15:02:29.473Z debug: 	[controller.board].create name: test.ctrl
+2021-01-21T15:02:29.483Z debug: 	[controller.board] open board test.ctrl
+2021-01-21T15:02:29.489Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-22T15:12:55.744Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:13:02.259Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:13:08.167Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:13:38.801Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:13:40.056Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:13:48.928Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:13:50.337Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:13:59.775Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:14:09.021Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:14:23.295Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:14:27.236Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:14:34.845Z error: 	[controller.board].open test.ctrl, error: board not found
+2021-01-22T15:14:34.849Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-22T15:14:34.858Z debug: 	[controller.board].create name: test.ctrl
+2021-01-22T15:14:38.221Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:14:40.704Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:14:44.418Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:15:27.667Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:15:29.881Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:15:33.957Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:16:02.309Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:16:16.830Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:17:55.945Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:18:17.539Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:18:26.307Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:18:35.389Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:18:38.852Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-22T15:19:18.621Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:17:58.087Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:18:08.421Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:18:09.719Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:18:11.775Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:18:14.939Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:18:18.623Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:18:35.836Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:18:42.316Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:18:46.627Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:18:58.363Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:19:04.048Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:19:05.465Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:19:08.296Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:19:10.735Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:19:23.811Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:19:28.142Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:19:36.951Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:27:00.081Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:27:09.958Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:27:35.131Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:27:47.776Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:28:17.123Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:28:31.523Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:28:33.285Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T10:28:39.223Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:57:38.666Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:57:48.256Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:57:49.416Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:57:54.114Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:58:11.472Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:58:40.644Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:58:43.859Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:58:46.980Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:58:51.223Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:59:19.609Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:59:24.002Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:59:29.529Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:59:31.986Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:59:34.013Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:59:36.945Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:59:39.602Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T11:59:48.124Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:00:08.191Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:02:59.976Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:03:32.188Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:03:38.183Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:05:59.754Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:06:04.449Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:06:17.182Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:06:21.294Z debug: 	[controller.board].create name: test.ctrl
+2021-01-23T12:06:21.298Z debug: 	[controller.board] open board test.ctrl
+2021-01-23T12:06:21.301Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-23T12:06:25.319Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:07:09.051Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:07:24.614Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:07:55.117Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:08:01.087Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:08:02.613Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:08:08.165Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:08:25.365Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:09:14.305Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:09:47.017Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:09:56.940Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:10:10.892Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:10:33.319Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:10:50.650Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:10:55.724Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:11:03.598Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:11:11.073Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:11:16.837Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:11:27.228Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:11:29.235Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:11:33.481Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:11:43.679Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:11:56.941Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:12:12.352Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:12:51.356Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:12:55.258Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:12:57.747Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:13:03.207Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:13:06.323Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:13:17.031Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:13:23.076Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:13:30.208Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:13:43.623Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:13:47.703Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:14:04.283Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:14:07.726Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:14:15.507Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:14:30.715Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:14:41.476Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:14:46.700Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:14:50.698Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:14:58.269Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:15:00.693Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:15:13.169Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:15:14.548Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:15:34.920Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:15:38.529Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:15:42.624Z debug: 	[controller.board].create name: test.ctrl
+2021-01-23T12:15:42.627Z debug: 	[controller.board] open board test.ctrl
+2021-01-23T12:15:42.630Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-23T12:15:53.151Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:16:24.466Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:16:29.593Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:17:22.919Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:17:35.656Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:18:22.736Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:42:31.673Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:42:34.225Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:42:44.923Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:43:12.967Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:43:39.392Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:44:08.752Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:44:30.420Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:44:47.258Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:45:25.875Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:45:29.376Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:46:03.759Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:46:10.870Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:46:54.790Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:47:14.764Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:48:10.599Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:48:26.579Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:50:04.584Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:50:28.665Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:51:22.942Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:52:04.741Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:52:19.940Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:52:49.413Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:53:21.774Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:53:59.718Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:54:14.995Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:54:18.876Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:54:27.110Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:54:36.458Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:55:59.706Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:56:03.042Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:56:27.357Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:56:56.980Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:56:59.900Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:57:04.523Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:57:14.285Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:57:37.200Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:57:48.593Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:57:58.042Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:58:36.352Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:58:42.499Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T12:58:52.680Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:04.606Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:06.819Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:06.857Z debug: 	[controller.board].create name: test.ctrl
+2021-01-23T13:01:15.666Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:22.518Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:34.717Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:37.134Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:41.197Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:47.598Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:56.504Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:01:58.477Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:02:06.045Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:02:26.919Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:02:44.529Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:02:48.931Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:02:52.725Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:03:01.693Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:03:06.627Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:16:13.726Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:16:28.306Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:16:47.776Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:16:58.105Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:17:13.417Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:17:24.297Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:17:55.796Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:18:02.151Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:18:09.111Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:18:28.293Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:18:28.345Z debug: 	[controller.board].create name: test.ctrl
+2021-01-23T13:18:34.490Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:19:59.399Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:20:04.763Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:20:07.324Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:20:18.492Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:20:34.571Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:20:41.515Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:20:45.607Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:21:48.310Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:22:46.316Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:23:09.029Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:24:16.108Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:25:48.590Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:30:33.746Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:30:44.949Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T13:31:23.382Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:42:34.858Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:42:55.265Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:42:59.583Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:43:10.805Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:43:29.342Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:43:31.441Z debug: 	[controller.board].create name: test.ctrl
+2021-01-23T15:43:31.446Z debug: 	[controller.board] open board test.ctrl
+2021-01-23T15:43:31.449Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-23T15:43:40.728Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:43:45.941Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:43:50.497Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:43:58.990Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:44:11.953Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:44:14.329Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:44:18.926Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:44:20.986Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:44:25.841Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:44:36.712Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:44:57.162Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:45:12.309Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:45:14.405Z debug: 	[controller.board].create name: test.ctrl
+2021-01-23T15:45:14.409Z debug: 	[controller.board] open board test.ctrl
+2021-01-23T15:45:14.412Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-23T15:46:00.056Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:46:01.965Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:46:04.345Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:46:10.009Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:46:11.844Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:46:19.211Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:46:26.142Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:46:35.032Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:46:38.283Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:46:51.614Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:47:29.172Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:47:43.022Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:47:47.830Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:47:52.728Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:47:58.221Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:49:23.931Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:49:42.595Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:50:24.453Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:50:29.095Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:50:32.957Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:50:41.717Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:50:47.682Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:50:57.575Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:51:04.290Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:51:23.858Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:55:43.589Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:55:56.287Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:57:07.145Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:57:08.611Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:57:11.452Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:57:21.611Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:57:37.802Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T15:57:54.608Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:10:46.304Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:10:58.020Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:12:37.258Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:12:37.541Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:12:45.838Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:13:02.185Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:13:15.321Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:13:22.849Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:13:31.234Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:13:38.456Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:16:10.471Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:16:10.711Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:17:28.488Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:17:42.768Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:17:49.807Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:18:34.449Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:18:41.513Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:18:45.168Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:18:56.151Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:19:28.177Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:20:39.688Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:20:59.351Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:21:46.298Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:22:00.865Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:22:39.726Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:23:00.940Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:32:47.111Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:32:56.626Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:32:56.688Z debug: 	[controller.board].create name: test.ctrl
+2021-01-23T16:32:56.698Z debug: 	[controller.board] open board test.ctrl
+2021-01-23T16:32:56.704Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-23T16:33:10.989Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:33:31.246Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:33:48.896Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:34:32.924Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:35:45.488Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:36:56.153Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:39:49.330Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:40:02.200Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:40:30.433Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:40:40.591Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:40:47.850Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:40:49.397Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:41:10.467Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:41:57.126Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:42:09.700Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:42:35.680Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:42:45.644Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:42:48.969Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:42:58.698Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:43:00.341Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:43:03.511Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:43:22.491Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:43:34.477Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:43:56.952Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:45:31.896Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:45:42.165Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:46:12.809Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:47:09.972Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:47:18.502Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:47:27.221Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:47:38.361Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:47:55.137Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:48:18.461Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:48:48.239Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:48:57.826Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:49:02.742Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:49:24.163Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:49:32.497Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:49:42.413Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:51:26.517Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:51:37.359Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:52:36.213Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:53:03.097Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:53:11.503Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:53:24.901Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:53:45.782Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:53:45.876Z debug: 	[controller.board].create name: test.ctrl
+2021-01-23T16:53:45.880Z debug: 	[controller.board] open board test.ctrl
+2021-01-23T16:53:45.883Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-23T16:54:36.295Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:54:39.199Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-23T16:54:48.801Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:04.057Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:06.959Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:12.048Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:15.463Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:21.113Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:23.700Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:26.945Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:29.729Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:34.195Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:36.633Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:40.489Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:42.796Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:50.507Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:52.487Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:57.508Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:19:59.660Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:20:06.151Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:20:08.715Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:22:04.776Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:22:04.882Z debug: 	[controller.board].create name: test.ctrl
+2021-01-24T09:22:04.886Z debug: 	[controller.board] open board test.ctrl
+2021-01-24T09:22:04.890Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-24T09:22:37.982Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:22:48.837Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:02.010Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:03.223Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:06.097Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:10.099Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:12.389Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:25.910Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:37.288Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:37.384Z debug: 	[controller.board].create name: test.ctrl
+2021-01-24T09:25:37.388Z debug: 	[controller.board] open board test.ctrl
+2021-01-24T09:25:37.392Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
+2021-01-24T09:25:47.556Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:49.110Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:25:52.880Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:26:04.839Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:26:09.857Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:26:50.358Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T09:26:53.605Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-24T12:16:36.684Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-25T12:05:49.701Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-26T12:03:39.722Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:19:01.838Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:20:16.073Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:20:35.050Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:20:55.183Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:21:32.548Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:21:55.702Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:22:27.693Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:24:10.603Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:25:46.509Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:26:14.630Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:27:10.838Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:27:42.766Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:27:57.504Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:28:08.270Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:58:34.797Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T13:59:35.712Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:04:31.299Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:04:44.560Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:04:53.899Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:06:48.817Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:08:35.957Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:17:59.606Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:18:28.847Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:18:43.189Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:18:59.548Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:19:57.248Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:20:33.213Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:20:50.440Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:21:23.557Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:21:29.443Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:21:51.716Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:23:42.744Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:24:12.600Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:48:17.751Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:48:31.554Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:48:49.392Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:49:55.869Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:50:11.046Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:50:50.323Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:51:38.514Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T14:52:07.395Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:23:07.702Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:24:25.427Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:24:56.064Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:27:30.271Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:28:05.054Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:28:30.940Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:29:49.665Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:33:10.087Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:33:23.587Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:33:38.389Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:34:21.385Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:34:50.095Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:35:55.577Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:36:51.247Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:37:11.590Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:37:34.868Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:38:09.798Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:38:26.428Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:41:52.261Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:42:40.049Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:43:21.322Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:44:50.872Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:44:59.549Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:46:01.266Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:46:10.964Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:47:11.448Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:48:19.844Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:48:42.713Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:49:05.892Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:49:25.343Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:49:59.793Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:50:42.459Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:52:16.113Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:52:32.271Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:53:23.267Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:53:30.666Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:53:43.833Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-01-27T16:54:26.160Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-02-01T14:52:50.991Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-02-01T14:53:28.951Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-02-01T14:54:52.187Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-02-01T14:58:49.597Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-02-01T14:59:38.065Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-02-01T15:00:08.416Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-02-01T15:00:18.048Z info: 	[controller.auth].authenticate private@example.com logged in successfully
+2021-02-01T15:31:14.432Z debug: 	[controller.board].create name: test.ctrl
+2021-02-01T15:31:14.440Z debug: 	[controller.board] open board test.ctrl
+2021-02-01T15:31:14.444Z error: 	[controller.board].open test.ctrl.not-found, error: board not found
