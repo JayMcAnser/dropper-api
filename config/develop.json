@@ -1,0 +1,13 @@
+{
+  "Database": {
+    "Dropper": {
+      "name": "dropper-dev"
+    }
+  },
+  "Server": {
+    "combineTime": 1
+  },
+  "Security": {
+    "passwordMinLength": 4
+  }
+}

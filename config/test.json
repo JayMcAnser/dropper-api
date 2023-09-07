@@ -1,3 +1,17 @@
 {
+  "Database": {
+    "Dropper": {
+      "name": "dropper-test"
+    }
+  },
+  "Card": {
+    "File": {
+      "removeImport": false
+    }
+  },
+  "Test": {
+    "user": "test@dropper.info",
+    "password": "12345678"
+  }
 
 }

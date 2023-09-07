@@ -1,34 +1,39 @@
 {
   "name": "dropper-api",
-  "version": "0.0.1",
-  "description": "The api for Dropper Curator",
-  "main": "index.js",
+  "version": "0.1.0",
+  "description": "2023 dropper api",
+  "main": "src/index.js",
   "scripts": {
     "clear": "killall node",
     "dev": "node src/index.js",
-    "test": "node --expose-internals ./node_modules/.bin/mocha $(find test -name '*spec.js') --exit --recursive"
+    "test": "node --expose-internals ./node_modules/.bin/mocha",
+    "test2": "mocha src/test/*.spec.* --exit"
   },
-  "author": "Jay McAnser",
+  "keywords": [],
+  "author": "",
   "license": "MIT",
-  "dependencies": {
-    "bcrypt": "^5.0.0",
-    "body-parser": "^1.19.0",
-    "config": "^3.3.3",
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "express-fileupload": "^1.2.1",
-    "jsonfile": "^6.1.0",
-    "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.20",
-    "mongoose": "^5.11.12",
-    "morgan": "^1.10.0",
-    "rimraf": "^3.0.2",
-    "uuid": "^8.3.2",
-    "winston": "^3.3.3"
-  },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "chai-http": "^4.3.0",
-    "mocha": "^8.2.1"
+    "chai": "^4.3.7",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "config": "^3.3.9",
+    "cors": "^2.8.5",
+    "cryptr": "^6.2.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "lodash": "^4.17.21",
+    "mime-types": "^2.1.35",
+    "moment": "^2.29.4",
+    "mongoose": "^7.4.2",
+    "socket.io": "^4.7.2",
+    "uuid": "^9.0.0",
+    "wildcard-match": "^5.1.2",
+    "winston": "^3.10.0"
   }
 }

@@ -1,20 +1,78 @@
 {
+  "Database": {
+    "Dropper": {
+      "host": "127.0.0.1",
+      "port": "27017",
+      "username": "",
+      "uriParam": false,
+      "password": false,
+      "debug": false,
+      "rootEmail.doc": "The email account of the root account with all access",
+      "rootEmail": "info@toxus.nl",
+      "rootPassword.doc": "The plain text password for this account",
+      "rootPassword": "123456",
+      "sessionMerge": "3 minutes"
+    },
+    "Card": {
+      "host": "127.0.0.1",
+      "port": "27017",
+      "uriParam": false,
+      "username": "",
+      "password": false,
+      "debug": false
+    }
+  },
+  "Path" : {
+    "configRoot.doc" : "the full path or relative to api directory where data is stored",
+    "configRoot" : "..",
+    "dataRoot.doc" : "the relative to config root path to the data",
+    "dataRoot" : "../data",
+
+    "imageRoot.doc" : "the relative to config root path to the image",
+    "imageRoot" : "data/wiki-images",
+    "logRoot.doc" : "the relative to config root path to the logging",
+    "logRoot" : "api/logging",
+    "siteRoot.doc" : "the relative to config root path to the place where the static site is served from",
+    "siteRoot" : "site/dist",
+    "tempDataRoot.doc": "location where the uploaded files are temporary stored",
+    "tempDataRoot": "temp/data",
+    "mediaRoot.doc": "The global images, if there are not available",
+    "mediaRoot": "api/data/media",
+    "importRoot.Doc": "Where all import files are stored",
+    "importRoot": "data",
+    "templateRoot": "api/wikipedia/templates"
+  },
+  "Modules": {
+    "morgan": false
+  },
   "Server": {
-    "port": 3000,
-    "secretKey": "Dr0pper"
+    "port": 3060,
+    "combineTimeDoc": "The time passed for a write to create a separate history step (in seconds)",
+    "combineTime": 60
   },
-  "Path": {
-    "dataRoot": "data",
-    "imageRoot": "data/image",
-    "logRoot": "logging"
+  "Security" : {
+    "passwordSaltRounds": 10,
+    "refreshExpire": "7d",
+    "jwtAuthKey": "set this in the local.json",
+    "tokenExpire": "1h",
+    "refreshTokenExpire": "10d",
+    "passwordMaster": "set this in local.json",
+    "passwordMinLength": 8,
+    "cryptKey": "dropperSecretKey",
+    "testProjectKey": "64f6315e48e3dbacf04352f7"
   },
-  "Logging": [
-    { "type": "access", "format":  "dev" },
-    { "type": "access", "format":  "tiny", "filename": "access.curator.log"},
-    { "type": "console", "level": "info", "colorize": true, "format": "timestamp"},
-    { "type": "file", "level": "debug", "colorize": true, "format": "timestamp", "filename": "public.log" }
-  ],
-  "Board": {
-    "indexFilename": "index.json"
+  "Card": {
+    "File": {
+      "removeImport": true
+    }
+  },
+  "Test": {
+    "username": "Test User",
+    "email": "test@dropper.info",
+    "password": "no password"
+  },
+  "Debug": {
+    "stackTrace": false
   }
 }
+
