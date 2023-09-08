@@ -61,6 +61,10 @@
     "cryptKey": "dropperSecretKey",
     "testProjectKey": "64f6315e48e3dbacf04352f7"
   },
+  "Logging": [
+    { "type": "access", "format":  "tiny", "filename": "access.curator.log"},
+    { "type": "console", "format":  "timestamp", "level": "info"}
+  ],
   "Card": {
     "File": {
       "removeImport": true
