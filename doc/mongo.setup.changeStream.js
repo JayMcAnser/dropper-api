@@ -1,5 +1,6 @@
 
 // https://www.mongodb.com/docs/drivers/node/current/usage-examples/changeStream/
+// single node: https://onecompiler.com/posts/3vchuyxuh/enabling-replica-set-in-mongodb-with-just-one-node
 
 const { MongoClient } = require("mongodb")
 // Replace the uri string with your MongoDB deployment's connection string.
